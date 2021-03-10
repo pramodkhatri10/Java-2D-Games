@@ -1,10 +1,4 @@
-# csc413-SecondGame
-
-## Student Name  : Pramod Khatri
-## Student ID    : 920831584
-
-
-# csc413-second game
+# Lazarus World
 
 
 ## src Folder Purpose 
