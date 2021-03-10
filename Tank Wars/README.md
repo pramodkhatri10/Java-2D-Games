@@ -1,10 +1,5 @@
-# csc413-tankgame
+# Tank Wars
 
-
-| Student Information |                |
-|:-------------------:|----------------|
-|  Student Name       |   Pramod Khatri|
-|  Student Email      |   pkhatri1@mail.sfsu.edu|
 
 ## src Folder Purpose 
 src folder is to be used to store source code only.
